@@ -83,14 +83,10 @@ Make sure you have Node.js installed. You can download it from [here](https://no
 
 ### Building the Project
 
-After installing the dependencies, build the project with the following command:
-
-```sh
-npm run build
- ```
+ 
 
 And last command is running this command:
 ```sh
-npm run start
+npm run dev
  ```
 
